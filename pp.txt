@@ -1,2 +1,3 @@
 I am new to git
-hello git
+hello gitprint("Git logs:")
+print("===========")
