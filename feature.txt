@@ -1,4 +1,0 @@
-this is a feature branch
-i'm pushing my code to a remote repository
-i'm merging my code with main and feature1
-this is the latest version 
